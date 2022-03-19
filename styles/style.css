@@ -1,0 +1,156 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navigation {
+    margin-top: 30px;
+}
+
+.nav-items {
+    margin-left: 20px;
+}
+
+.nav-items ul li a {
+    font-weight: 500;
+}
+
+.amar-jinish {
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 4%;
+    padding: 20px;
+    background-color: rgba(254, 234, 233, 1);
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.first-button {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(rgba(255, 88, 155, 1), rgba(255, 19, 111, 1));
+    border-radius: 5px;
+    padding: 10px 20px;
+    align-items: center;
+}
+
+.iconic-try {
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+.categories-title {
+    margin-top: 40px;
+}
+
+.catagories-pic img {
+    width: 100px;
+}
+
+.categories-item {
+    background-image: linear-gradient(rgba(255, 156, 53, 1), rgba(255, 208, 25, 1));
+}
+
+.categories-item-2 {
+    background-image: linear-gradient(rgba(255, 88, 155, 1), rgba(255, 19, 111, 1));
+}
+
+.categories-item-3 {
+    background-image: linear-gradient(rgba(66, 137, 255, 1), rgba(63, 7, 248, 1));
+}
+
+.all-card {
+    padding-top: 5px;
+    margin-top: 50px;
+    background: rgba(244, 244, 244, 1);
+}
+
+.shoe-image img {
+    width: 336px;
+    height: 202px;
+}
+
+.shoe-image {
+    margin-top: 30px;
+    border-radius: 20px;
+    padding: 35px;
+    text-align: center;
+}
+
+.card-title {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.card-button {
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+
+.card-button a {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.shoe-icon {
+    margin-left: 10px;
+}
+
+.bag-image img {
+    width: 290px;
+    height: 290px;
+    margin-left: 50px;
+}
+
+.bag-image {
+    margin-top: 30px;
+    border-radius: 20px;
+    padding: 35px;
+    text-align: center;
+}
+
+h3 {
+    margin-top: 5px;
+}
+
+.card-body {
+    flex: none;
+}
+
+.footer-first {
+    border-radius: 20px;
+    background-color: rgba(254, 234, 233, 1);
+    margin: 71px 111px;
+}
+
+.info {
+    padding-left: 500px;
+    padding-top: 200px;
+    padding-bottom: 20px;
+}
+
+.mail a {
+    text-decoration: none;
+    background-image: linear-gradient(rgba(255, 88, 155, 1), rgba(255, 19, 111, 1));
+    color: white;
+    padding: 23px 40px;
+    margin-left: 0;
+}
+
+.mail input {
+    margin-bottom: 200px;
+    font-size: 20px;
+    margin-left: 350px;
+    width: 500px;
+    height: 70px;
+}
+
+.copy-right {
+    text-align: center;
+}
